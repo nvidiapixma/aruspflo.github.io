@@ -1,0 +1,22 @@
+h1{ 
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*fmwgj2*_ga*ODUzNTAzNDU2OS4xNjk0Njk1MDkw*_ga_3LRZM6TM9L*MTY5NjE0NTU5MS4yMi4xLjE2OTYxNDY4NTYuNTcuMC4w);
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+}
+h1, h2,h3,p{
+    font-family: Helvetica;
+}
+.content h2{
+    color: white;
+    font-size: 32px;
+}
+.content h3{
+    
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
